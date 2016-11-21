@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Alexa-Voice-Services
+Version: 0.1.0a
+Summary: This Plugin uses Amazon's Alexa to control the printer
+Home-page: https://github.com/Robo3D/OctoPrint-Alexa-Plugin
+Author: Robo 3D
+Author-email: allen@robo3D.com
+License: AGPLv3
+Description: UNKNOWN
+Platform: UNKNOWN

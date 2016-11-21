@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+OctoPrint_Octoalexa.egg-info/PKG-INFO
+OctoPrint_Octoalexa.egg-info/SOURCES.txt
+OctoPrint_Octoalexa.egg-info/dependency_links.txt
+OctoPrint_Octoalexa.egg-info/entry_points.txt
+OctoPrint_Octoalexa.egg-info/not-zip-safe
+OctoPrint_Octoalexa.egg-info/requires.txt
+OctoPrint_Octoalexa.egg-info/top_level.txt
+octoprint_octoalexa/__init__.py

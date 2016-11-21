@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+Alexa_Voice_Services.egg-info/PKG-INFO
+Alexa_Voice_Services.egg-info/SOURCES.txt
+Alexa_Voice_Services.egg-info/dependency_links.txt
+Alexa_Voice_Services.egg-info/entry_points.txt
+Alexa_Voice_Services.egg-info/not-zip-safe
+Alexa_Voice_Services.egg-info/requires.txt
+Alexa_Voice_Services.egg-info/top_level.txt
+octoprint_octoalexa/__init__.py
+octoprint_octoalexa/server_interaction.py
